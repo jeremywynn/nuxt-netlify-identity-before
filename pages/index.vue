@@ -95,9 +95,11 @@ export default {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-weight: 400;
+  margin: 1.5rem 0;
 }
 
 .links {
   padding-top: 15px;
 }
+
 </style>
